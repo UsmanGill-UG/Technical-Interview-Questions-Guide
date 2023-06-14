@@ -19,12 +19,4 @@
 ![image10](https://github.com/UsmanGill-UG/Technical-Interview-Questions-Guide/assets/62206839/5bb83884-5c24-4f17-be09-070683b0ac4e)
 ![image9](https://github.com/UsmanGill-UG/Technical-Interview-Questions-Guide/assets/62206839/fee72ab5-14e2-44b0-b109-004982e04d0e)
 
-# Tips
-1. Complete the practice test available on Arbisoft’s website.
-2. There will be one question about API, practice that in your preferred language.
-3. 50% are for the correct code (passing test cases), other 50% weightage is for clean and efficient code.
-4. Try to do Job sample test in python, I think you do save a lot of time by this.
-5. Job sample test is 8 hours long so take your time, don’t rush things.
-6. Most students don’t know how to read command line arguments, see how to do that beforehand.
-7. Don’t over complicate the class design problem.
 

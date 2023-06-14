@@ -4,3 +4,11 @@
 3. 1-2 Technical Interview
 4. HR interview
 
+# Tips
+1. Complete the practice test available on Arbisoft’s website.
+2. There will be one question about API, practice that in your preferred language.
+3. 50% are for the correct code (passing test cases), other 50% weightage is for clean and efficient code.
+4. Try to do Job sample test in python, I think you do save a lot of time by this.
+5. Job sample test is 8 hours long so take your time, don’t rush things.
+6. Most students don’t know how to read command line arguments, see how to do that beforehand.
+7. Don’t over complicate the class design problem.
