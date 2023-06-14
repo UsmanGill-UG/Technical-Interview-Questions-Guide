@@ -1,6 +1,7 @@
 # Arbisoft Techical Interview
 ---------------------------------------------------------------------------------------------------------------
 **This interview depends on how you did the Job Sample Test, each candidate interview can vary a lot**
+** I got python specific questions because I did Job Sample test in python **
 1. What is polymorphism
 Virtual functions
 Overriding
