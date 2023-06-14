@@ -4,20 +4,16 @@ import sys
 
 # get all rides of the driver_id
 def get_driver_rides(rides, driver_id):
-    result = []
-    for ride in rides:
-        if ride['driver_id'] == int(driver_id):
-            result.append(ride)
-    return result
+    return [ride for ride in rides if ride['driver_id'] == int(driver_id)]
 
 
 # get all driver payments of the driver_id
 def get_driver_payments_sum(driver_id):
-    payments_data = []
-    for payment in payments:
-        if payment['driver_id'] == int(driver_id):
-            amount = int(payment['amount'])
-            payments_data.append(amount)
+    payments_data = [
+        int(payment['amount'])
+        for payment in payments
+        if payment['driver_id'] == int(driver_id)
+    ]
     return sum(payments_data)
 
 
@@ -33,10 +29,7 @@ def calculate_commission(ride, joining_date):
 
 
 def get_commission(total_rides, joining_date):
-    commission = 0
-    for ride in total_rides:
-        commission += calculate_commission(ride, joining_date)
-    return commission
+    return sum(calculate_commission(ride, joining_date) for ride in total_rides)
 
 
 def calculate_payback(total_rides, number_of_testcases, joining_date):
@@ -58,7 +51,7 @@ numberOfTestCases = int(f.readline())
 driver_ids = []
 joining_date = []  # [month, day , year]
 
-for i in range(numberOfTestCases):
+for _ in range(numberOfTestCases):
     input = f.readline()
     input = input.split(',')
     driver_ids.append(input[0])
