@@ -5,7 +5,8 @@
 4. HR interview
 
 # Tips
-1. Complete the practice test available on Arbisoft’s website.
+1. Complete the practice test available on Arbisoft’s website.  
+[Pratice Test](https://freshgradhiring.arbisoft.com/past-results.html)
 2. There will be one question about API, practice that in your preferred language.
 3. 50% are for the correct code (passing test cases), other 50% weightage is for clean and efficient code.
 4. Try to do Job sample test in python, I think you do save a lot of time by this.
