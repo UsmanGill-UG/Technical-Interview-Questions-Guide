@@ -1,6 +1,6 @@
 # 2023 Fresh Grad Test
 1. Tourist Question
-![image5](https://github.com/UsmanGill-UG/Technical-Interview-Questions-Guide/assets/62206839/60781a62-0735-4a4e-8ea7-c92252ae19f2)
+![image5](https://github.com/UsmanGill-UG/Technical-Interview-Questions-Guide/assets/62206839/c302a9fd-1a87-415f-b847-68dc925f267e)
 ![image4](https://github.com/UsmanGill-UG/Technical-Interview-Questions-Guide/assets/62206839/f4af634f-dd08-42ef-bec9-14739de1d6da)
 
 2. API Question
