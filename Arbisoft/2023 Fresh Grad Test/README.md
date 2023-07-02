@@ -10,7 +10,8 @@
 ![image7](https://github.com/UsmanGill-UG/Technical-Interview-Questions-Guide/assets/62206839/a019124c-7201-4f93-a098-a3f38a7212b3)
 
 3. OOP Question
-  Car Manufacturing Design Problem
+   
+   Car Manufacturing Design Problem
   
 5. Algo Question
 ![image3](https://github.com/UsmanGill-UG/Technical-Interview-Questions-Guide/assets/62206839/0e4f5e49-acdc-4121-80b9-fd7af148fd42)
