@@ -20,6 +20,7 @@ Example:
 ```python
 /Arbisoft
 /Devsinc
+/Educative
 .
 .
 
@@ -34,7 +35,16 @@ Example:
    README.md    #this readme will include hiring process 
    /Questions 
    /Internship
-   /
+   .
+   .
+/Educative
+   README.md
+   /Questions
+   /Internship
+   .
+   .
+.
+.
 ```
 
 2. README File for Companies:
@@ -55,7 +65,7 @@ Example:
 /Arbisoft
    README.md
    /Questions
-      readme.md  # you can add questiosn to the pool of questions
+      README.md  # you can add questiosn to the pool of questions
       candidate1.md # or make your seperate questions list
       candidate2.md
       .
