@@ -1,4 +1,4 @@
-# Educative Hiring Process
+# Educative Past Questions
 1. String
 * 
 2. Array
