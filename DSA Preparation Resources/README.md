@@ -1,4 +1,4 @@
-![DSA Preparation Resources](<DSA prep.png>)
+![DSA Preparation Resources](https://github.com/UsmanGill-UG/Technical-Interview-Questions-Guide/assets/62206839/db190823-f73f-47e2-bf97-43958990846d)
 
 # DSA Practice
 1. [Algoexpert](https://www.algoexpert.io/) - Paid
