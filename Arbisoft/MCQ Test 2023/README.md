@@ -1,6 +1,3 @@
 # 2023 MCQ Test
 
-Will be updated soon!
-
-
-
+Added PDF File of Fresh Grad Online MCQ Test 2023
