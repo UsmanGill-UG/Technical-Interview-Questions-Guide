@@ -1,6 +1,6 @@
 # i2c Hiring Process
 1. On-site 3 hour HR assessment
-2. Interview
+2. 3 Interviews then job offer
 
 # Tips
 1. Software Engineer - Product Operations
