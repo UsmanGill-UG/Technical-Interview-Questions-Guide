@@ -9,5 +9,6 @@
 8. Your Short term and Long term goals.
 
 # Tips
-# In every question he will try to confuse you and he asks technical questions which many freshies do not know mostly, I think he just checks how you approach an unknown problem.
-# My advice is just dont lose your confidence and you will ace it.
+**In every question he will try to confuse you and he asks technical questions which many freshies do not know mostly, I think he just checks how you approach an unknown problem.**
+
+My advice is just dont lose your confidence and you will ace it.

@@ -1,6 +1,6 @@
 
 # General Questions
-# In this part they are just checking your general awareness of daily things in life
+**In this part they are just checking your general awareness of daily things in life**
 1. FYP Questions
 2. Does whatsapp steal data? your thoughts?
 3. How does google map detect traffic?
