@@ -1,5 +1,11 @@
 ![DSA Preparation Resources](https://github.com/UsmanGill-UG/Technical-Interview-Questions-Guide/assets/62206839/db190823-f73f-47e2-bf97-43958990846d)
 
+# Learn DSA
+1. [freeCodeCamp](https://youtu.be/B31LgI4Y4DQ?si=n50zkxGs_KWf2Eu) - one of the best tutorial you will ever find for absolute bigginer in c and cpp - free
+2. [freeCodeCamp](https://youtu.be/pkYVOmU3MgA?si=w0ANrDo3QEECynT6) - free in python
+3. [WilliamFiset](https://youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P&si=reaVULyA6gwez7Hj) one of the best tutorial for graph algorithms - free
+4. [freeCodeCamp](https://youtu.be/RBSGKlAvoiM?si=f65o16tTKtIOEb31) one of the best tutorial for data structures - free
+
 # DSA Practice
 1. [Algoexpert](https://www.algoexpert.io/) - Paid
 2. [Neetcode](https://neetcode.io/roadmap) - Free, similar to Algoexpert
