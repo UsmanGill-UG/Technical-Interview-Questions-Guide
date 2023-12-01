@@ -4,6 +4,13 @@
 3. 1-2 Technical Interview
 4. HR interview
 
+# If you have more than 2 weeks to prepare
+- practice coding in Python
+- practice writing clean code (variable naming, formatting, pep8, read clean code book)
+- get familiar with API fetching and cleaning data ( see 2023 API question and solution for reference)
+- study how to design using OOP
+- practice leetcode questions
+
 # Tips
 1. Complete the practice test available on Arbisoft’s website.  
 [Practice Test](https://freshgradhiring.arbisoft.com/past-results.html)
