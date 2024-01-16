@@ -7,3 +7,6 @@
 
     * SQL Focused Interview and Test
     * No Coding. Only Databases and Linux commands and Software Engineering
+
+# Question Problems
+1. How would you approach and prioritize tasks to complete a project within a week in an efficient and timely manner?
