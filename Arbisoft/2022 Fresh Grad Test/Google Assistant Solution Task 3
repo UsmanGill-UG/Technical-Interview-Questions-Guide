@@ -1,0 +1,70 @@
+def Task3(num):
+    pat = [
+        "-",
+        "-",
+        "double",
+        "triple",
+        "quadruple",
+        "quintuple",
+        "sextuple",
+        "septuple",
+        "octuple",
+        "nonuple",
+        "decuple",
+    ]
+    numb = [
+        "zero",
+        "one",
+        "two",
+        "three",
+        "four",
+        "five",
+        "six",
+        "seven",
+        "eight",
+        "nine",
+    ]
+    preval = 0
+    curval = 0
+    recount = 1
+    word = ""
+    for i in range(len(num)):
+        if not (
+            num[i : i + 1] == " "
+            or num[i : i + 1] == "-"
+            or num[i : i + 1] == ")"
+            or num[i : i + 1] == "("
+            or num[i : i + 1] == "+"
+        ):
+            if (num[i : i + 1]).isdigit():
+                preval = num[i : i + 1]
+                curval = num[i + 1 : i + 2]
+                if curval != preval:
+                    if recount > 1 and recount < 11:
+                        word = word + (pat[recount] + " " + str(preval) + " ").lstrip()
+                        recount = 1
+                    else:
+                        word = word + ((str(preval) + " ") * recount).lstrip()
+                else:
+                    recount += 1
+        else:
+            pass
+    arr = word.split(" ")
+    word = ""
+    for i in range(len(arr)):
+        if arr[i].isdigit():
+            arr[i] = numb[int(arr[i])]
+        word = word + arr[i] + " "
+    print(word)
+
+
+arr = [
+    "923 33 3303600",
+    "(425) 555-1212",
+    "425-555-1212",
+    "923 3333 03600",
+    "0333 303600",
+    "+1-650-513-0514",
+]
+for i in arr:
+    Task3(i)
