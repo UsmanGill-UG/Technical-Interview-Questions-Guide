@@ -1,4 +1,114 @@
 # Devsinc Questions
 
-Will be updated soon!
+- Questions asked from former candidates interviewed at Devsinc. Source: Glassdoor. -
 
+# Recent Questions
+
+- Why do you want to join devsinc?
+- Find wether circular loop exist inside the Linklist or not.
+- Asked to identify Loop in a Linkedlist
+- explain hoisting, and currying in javascript. explain OOP and DB basics
+- Tell me about yourself and experience?
+- basic questions and generalised not jop specific questions
+- How high would I rate myself in Databases
+- In technical interview many questions related oop,ds,os,DB and problem solving were asked.
+- He asked me about database relationships
+- Related to OOP and data structures
+- Types of Database indexing ?
+- Q. reverse a linked list
+- General Questions: - 
+  - There is an Array given of positive integers move all the zeros to the end of the array using a single loop.
+  - All Basic questions from OOP, DSA, DB.
+  - I don't remember but it was a leet code hard from linked list.
+  - To explain my FYP and how it impacts the real users
+  - Q: If we update database views will the tables be updated from which the view was generated?
+  - how to make all zeros in the array to one side of it in o(n)
+  - Problem solving questions such as merging sorted array, reversing the LinkedList in a single traversal were asked. Questions related to trees such as Preorder, Inorder and Postorder traversals were asked as well. I was also asked to write some queries in SQL as well.
+  - I remember he asked me different questions and it was of about 30 minutes or so. Aked me to write a query of joins. There were questions related to DSA one was to convert STACK into QUEUE, some analytical questions were also asked.
+  - 1. find a duplicate from the link list with the 2.2.complexity of o(n) 2. sort stack using stacks only
+  - Q. reverse a linked list
+  - There is an Array given of positive integers move all the zeros to the end of the array using a single loop.
+  - find midpoint of a linked list
+  - Everything from oop db to algo
+  - Explain the concepts of OOP.
+  - They asked the LinkList reverse question.
+  - Why we use Stack Instead of Other?
+  - Remove duplicates from array You have two numbers 5,7. Make a function that return 5 if its input is 7 and vice versa. Db basics and few questions about react.
+  - analytical question, oop question concepts, dsa and programming problem solving questions
+  - Real world example of abstraction?
+  - Describe your self. What's your life goals.
+  - They asked questions from Linked List. They gave me two linked lists and asked to add them in another linked list.
+  - What is Polymorphism? Overloading and overriding? How to convert stack to a Queue?
+  - Reverse Link List Question Of DSA
+  - 3 sum problem, the most optimal solution.
+  - How do you find the sum of two linked lists using Stack?
+  - Programming Questions, Knowledge Questions and some Analytics Questions
+  - Questions related to DBMS, OOP and DSA were asked.
+  - DSA, OOP, DB, and cognitive ability.
+  - DSA, OOP, DB, and cognitive ability.
+  - There are two candles, each candle could be burned from both sides, if a candle is burning from one side it takes 60 minutes to completely burn it. You have no time measurement device and you have to burn both of the candles in exact 45 minutes.
+  - One of the questions that I was asked was to solve a problem related to hundreds of doors opening and closing .
+  - First a basic test 1st Technical interview (Almost basics level of PF, DSA, OOF, DB) 2nd Technical interview (heavy level question about PF, DSA, OOF, DB) HR interview (just information about your self)
+  - First a basic test 1st Technical interview (Almost basics level of PF, DSA, OOF, DB) 2nd Technical interview (heavy level question about PF, DSA, OOF, DB) HR interview (just information about your self)
+  - Tell us about Your FYP and why did you choose this.
+  - How to make a queue with a stack?
+  - Questions was testing basic knowledge of Bachelor Degree of Computer science
+  - What is class and object
+  - 1st interview 1. Given an array full of integers from 0 to 4 in random order how will you sort this array. (I explained my approach he said it's good no need to code). 2. Given a singly linked list find if the list is a palindrome, you only have to head no length is given and you have to solve in one loop and one pass, O(n) (I explained my approach he said it's good no need to code). 3. Given a singly linked list and an integer n reverse the n size chunks and return the complete linked list. E.g. list 1->2->3->4->5->6 and n = 2 will return 2->1->4->3->6->5 I had to code the complete algo. 2nd Interview 4. He asked me to code the second question (palindrome). 5. He asked me to solve the two-sum problem in O(n) and a single loop. 6. He asked me to solve the balls in the bag problem analytical problem. 7. At last he gave me a simple database query that uses group by.
+  - Questions asked were from OOP, DSA, Database, and Analytical section.
+  - Where do you see yourself in five years?
+  - Describe Polymorphism and multiple inheritance
+  - The interview was conducted from 4-5 subjects which are OOP, Data Structure, Database, Design Pattern
+  - What are my future goals?
+  - Find loop in LinkedList. All OPPS concepts. 2 to 3 coding questions. Problem-solving skills.
+  - is LinkList is subset of graph?
+  - About every question of CS core courses
+  - Reverse single linked list in a single triversal
+  - Questions were mostly related to databases. Schema design, normalization, data structures like red black tree, and lot of link list questions and also they ask about some puzzles to solve.
+  - Swap paorwise links of linklist
+  - It is average Questions asked Types of constructor Operator overloading Function overloading What is oop Db Write two queries Left and right outer join Programming question Rotation of array
+  - Linked list Tree / Graph SQL queries Analytical question BST
+  - Describe your final year project?
+  - Difference between Run time polymorphism and complier time Polymorphism?
+  - In the interview they about the concepts of OOP and they asked me to write a SQL query and few questions related to data structures such as graphs, trees.
+  - Principle of oop and design related questions ❓
+  - Q: To find if sum of two numbers in an array equals to a given number
+  - Same as apple questions that were asked
+  - It was basic questions from db , oop and data structure. Question was on 2d array and a linked list and he asked me to optimize it too. Just focus on basic things that it. Though it varies on the interviewer too.
+  - find duplicate values in an array
+  - how to remove duplicate elements of array?
+  - Why is denormallization required?
+  - Rope fire problem, Machine problem
+  - 1 - FYP related Questions 2 - Questions for test already taken 3 - Anaytical questionsPF, OOP, Data Structures, Databases
+
+## Senior Level 
+- Define SOLID Principles? and how to implement it in real world application?
+- They usually asked about mid-senior level questions in interview.
+- Database queries Algorithms Analytical questions
+- Database normalization java script concepts indexing
+- Difference b/w interfaces and abstract classes?
+- Basic oop concepts like inheritance, encapsulation
+- Tell me about List comprehension?
+- DB basics, query(Find 2nd highest salary) OOP basics like 4 pillars of oop types of polymorphism etc Problem solving Qs like Find duplicates in O(n). Reverse linked list. Delete node without head ref. Move zeroes to end in one loop etc.
+- Tell if the number if odd or even without using any conditional statements
+- inheritance types and define process.
+- Rotate the array. SubArray problem. Binary Tree problem.
+- Bst,hashing,web,J's,node react basics and going towards the output of J's event loops.
+- Four pillars of object-oriented programming with examples in real life.
+- Questions about stack and the language you work on.
+- What is polymorphism in OOP?
+- What is polymorphism in OOP?
+- Move all alphabets at the end of the array.
+- reverse an array delete node
+- What is object oriented programming?
+- There were some analytical questions and basic OOP, Database and Data structure
+- Give your 3 strength and 3 weakness
+- Types of Database indexing ?
+- Related to OOP and data structures
+- He asked me about database relationships
+- In technical interview many questions related oop,ds,os,DB and problem solving were asked.
+- How high would I rate myself in Databases
+- basic questions and generalised not jop specific questions
+- There is an Array given of positive integers move all the zeros to the end of the array using a single loop.
+- I don't remember but it was a leet code hard from linked list.
+- how to make all zeros in the array to one side of it in o(n)
